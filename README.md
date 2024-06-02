@@ -18,7 +18,7 @@ import {
   setSessionCookie,
   clearSessionCookie,
   getSessionCookie,
-} from 'session-helper'
+} from 'rookie-auth'
 import cookieParser from 'cookie-parser'
 
 const app = express()
