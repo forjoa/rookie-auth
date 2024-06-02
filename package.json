@@ -1,14 +1,14 @@
 {
   "name": "rookie-auth",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple helper for managing encrypted sessions in Node.js applications.",
+  "main": "index.mjs",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joaquin",
   "license": "ISC",
   "dependencies": {
     "cookie": "0.6.0",
